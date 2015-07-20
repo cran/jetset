@@ -1,0 +1,17 @@
+d7e79e4cc76e2acfade53648ff94f2d9 *DESCRIPTION
+98ef079bf0ec3835f43d69e2ca9712b8 *NAMESPACE
+6dc0f6cc5bc3c895439b4b386a6bfc4a *NEWS
+e8f14d3d3040a95ba547cb0a6957bd1c *R/jetset.R
+3cb17d2bf2078dd11dcffad354619c52 *build/vignette.rds
+a8a25489b7f45d73d9c9c9e42909fe2a *data/scores.hgu133a.RData
+03f5bff0d2c2ff763db5190cfe6d5a36 *data/scores.hgu133plus2.RData
+7443fe0722888dd5355240adbd4aaf0d *data/scores.hgu95av2.RData
+8334db400fa0a3eb9d378535d32b3528 *data/scores.u133x3p.RData
+e5fca38bc391fd73d83c2861c249ef6a *inst/CITATION
+6497929d2d2285d839b1f2ae6df39d28 *inst/doc/jetset.R
+d4a296f3b665af8f5050624ff23dbf0e *inst/doc/jetset.Rnw
+ed3cb9353968fc39ba5c7fe528d5de99 *inst/doc/jetset.pdf
+4f55773d2c25280f827dae8d4990cbf4 *man/jmap.Rd
+fa6fa309a5db43c793b43e8597f51655 *man/jscores.Rd
+be26e529f11574f224d97c92dea12112 *man/scores.Rd
+d4a296f3b665af8f5050624ff23dbf0e *vignettes/jetset.Rnw
